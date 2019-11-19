@@ -23,7 +23,7 @@ file.
 
 
 With all of that done, you should be good to go. save your text files, close your terminal and reopen. Once you fork
-a repository, copy the URL and type           clone *paste your url here without the tidle's*
+a repository, copy the URL and type           clone *paste-your-url-here*
 
 This should clone the repository into a new file of the repositories name, then proceed to open it in visual studio code.
 It should work in any directory
