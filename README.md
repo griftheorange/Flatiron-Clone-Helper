@@ -26,4 +26,4 @@ With all of that done, you should be good to go. save your text files, close you
 a repository, copy the URL and type           clone *paste-your-url-here*
 
 This should clone the repository into a new file of the repositories name, then proceed to open it in visual studio code.
-It should work in any directory
+It should work from any directory
