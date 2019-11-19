@@ -12,11 +12,11 @@ variable to the absolute path to the file you want to clone your repositories to
 You should see a file called .bash_profile. Open this file in a text editor and at the *VERY BOTTOM* copy the following code:
 
     clone(){
-      echo "$1" > ~/Desktop/clone_helper/url_holder.txt
-      ruby ~/Desktop/clone_helper/pull.rb
+      echo "$1" > ~/Desktop/Flatiron-Clone-Helper/url_holder.txt
+      ruby ~/Desktop/Flatiron-Clone-Helper/pull.rb
     }
     
-Note, if you did not install the file on your desktop, here is where you change the absolute address to your clone_helper
+Note, if you did not install the file on your desktop, here is where you change the absolute address to your Flatiron-Clone-Helper
 file.
 
 
