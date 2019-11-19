@@ -8,7 +8,7 @@ assume such.
 2. Next, open the pull.rb file in a text editor and edit the username variable to your git username, and the dir
 variable to the absolute path to the file you want to clone your repositories to.
 
-3. Last, you need to settup a git alias to run the command. cd to your root directory (cd ~) and list all files (ls -a).
+3. Last, you need to settup a git function to run the command. cd to your root directory (cd ~) and list all files (ls -a).
 You should see a file called .bash_profile. Open this file in a text editor and at the *VERY BOTTOM* copy the following code:
 
     clone(){
